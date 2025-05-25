@@ -1,2 +1,0 @@
-username=tej
-password=us2003
