@@ -1,4 +1,5 @@
 Get the user data...
 process the data
 
-create an avatar for user 
+dont create any avatara new lite -version approach
+add a new lite-version change 1
