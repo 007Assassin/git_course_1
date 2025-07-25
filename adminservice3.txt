@@ -4,3 +4,4 @@ change the roles
 change 1 in second database
 change 2 in github online page | change 3 in github online page 
 
+fixed bug by comming back to main branch from feature1 branch by using >>git stash
