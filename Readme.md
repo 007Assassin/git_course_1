@@ -1,3 +1,3 @@
-this is my first projrect
+this is my first project
 
 author - Tejus Shetty
